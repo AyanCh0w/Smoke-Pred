@@ -1,5 +1,5 @@
 # Smoke-Pred
-## Just placed in the top 73rd percentile! (Out of 1790) On a #Kaggle #competition: Prediction of Smoker Status using Bio-Signals. I used common models such as XGB and LGB, fine tuned with #optuna, and trained on the data that was processed using #pandas. Extra Data Analysis (EDA) done with #plotly.
+## Just placed in the top 71st percentile! (539 of 1910) On a @Kaggle #competition: Prediction of Smoker Status using Bio-Signals. I used common models such as XGB and LGB, fine tuned with #optuna, and trained on the data that was processed using #pandas. EDA done with #plotly.
 
 ### imports
 ```{python}
