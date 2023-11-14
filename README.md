@@ -1,4 +1,5 @@
 # Smoke-Pred
+## Competition here: [kaggle.com/competitions/playground-series-s3e24](https://www.kaggle.com/competitions/playground-series-s3e24/overview)
 ## Just placed in the top 71st percentile! (539 of 1910) On a @Kaggle #competition: Prediction of Smoker Status using Bio-Signals. I used common models such as XGB and LGB, fine tuned with #optuna, and trained on the data that was processed using #pandas. EDA done with #plotly.
 
 ### imports
